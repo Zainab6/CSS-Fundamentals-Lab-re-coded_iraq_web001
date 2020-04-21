@@ -37,11 +37,14 @@ figcaption {
   position:relative;
   width:25%;
   float:left;
+  
 }
 #content1 {
   position:relative;
   width:25%;
   float:left;
+  text-align:center;
+  background-color: red;
 }
 #content2 {
   position:relative;
