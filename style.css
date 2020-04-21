@@ -39,3 +39,12 @@ figcaption {
 #content1 {
   position:relative;
   width:50%;
+}
+#content2 {
+  position:relative;
+  width:75%;
+}
+#right-thing {
+  position:relative;
+  width:100%;
+}
